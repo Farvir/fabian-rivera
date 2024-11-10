@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "item1": "Inicio",
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Ingeniero Informático",
+        "parrafo-info": "Me gradue en el 2020, mi fuerte son las comunicaciones, pero estoy motivado con la programación. Actualmente he tomado un bootcam de desarrollo web Full-Stack, estoy iniciando en proyectos web que utilicen HTML5, CSS, JavaScript, me considero una persona emprededora, empatico, resolitivo, me adapto facilmente en entornos de trabajo. Busco poder contribuir a las compañias en solucionar problemas del mundo real con software.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Me gradue en el 2020, mi fuerte son las comunicaciones, pero estoy motivado con la programación. Actualmente he tomado un bootcam de desarrollo web Full-Stack, estoy iniciando en proyectos web que utilicen HTML5, CSS, JavaScript, me considero una persona emprededora, empatico, resolitivo, me adapto facilmente en entornos de trabajo. Busco poder contribuir a las compañias en solucionar problemas del mundo real con software."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingeniero Informático",
+        "tiempo-formacion1": "2021",
+        "formacion2": "Técnico Laboral en Habilidades en Programación con Énfasis en Aplicaciones Web",
+        "tiempo-formacion2": "2022",
+        "formacion3": "Tecnico y Técnologo en instalación de redes de computadores"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Juego del Ahorcado",
+        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Encriptador de Texto",
+        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}

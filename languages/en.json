@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "item1": "home",
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Computer Engineer",
+        "parrafo-info": "I graduated in 2020, my strong point is communications, but I am motivated by programming. I have currently taken a Full-Stack web development bootcamp, I am starting in web projects that use HTML5, CSS, JavaScript, I consider myself an entrepreneur, empathetic, decisive, I adapt easily in work environments. I seek to be able to contribute to companies in solving real-world problems with software.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I graduated from SENA, graduated as a technician and technologist. I completed homologation to finish professional studies, I graduated as a computer engineer at the Universidad Fundación Católica del Norte, I currently work at UESVALLE, a public entity in the IT area. My strong point is not programming, I have currently taken some programming courses and this challenge attracts me, I am acquiring new skills, knowledge and strengthening my professional profile.<br><br>I am an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continually improve myself."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Computer Engineer",
+        "tiempo-formacion1": "2021",
+        "formacion2": "Labor Technician in Programming Skills with Emphasis on Web Applications",
+        "tiempo-formacion2": "2022",
+        "formacion3": "Technician and Technologist in computer network installation"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Hangman Game",
+        "info-proyecto1": "A game where the user must guess the secret word with a certain number of chances. The word is chosen randomly by the program and the user will lose the moment the gallows is completed.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
+        "title-proyecto3": "Text Encryptor",
+        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys. The encryptor can also decrypt the text."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}
